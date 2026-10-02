@@ -1,0 +1,7 @@
+{
+  "name": "photo-vote-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "摄影作品在线投票网站（51件作品，每人2票，实时票数）",
+  "type": "module"
+}
